@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LengthConverter</string>
+    <string name="length_to_be_converted">Length to be converted</string>
+    <string name="invalid_input">Invalid input</string>
+</resources>
